@@ -1,0 +1,14 @@
+.container{
+  background-color: white;
+  text-align: center;
+}
+
+.sobre {
+  top: 95px;
+  left: 50px;
+  opacity: 0.7;
+  color: white;
+  background: grey;
+  transform: rotate(10deg);
+  border: 1px solid red;
+}
